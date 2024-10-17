@@ -1,7 +1,8 @@
 # 👋 Hi!/你好！
 ## About me
 - 👨‍🎓 An undergraduate student at DUT(Dalian University of Technology) studying Software Engineering
-- 📧 Reach me: *[My Gmail](yingqiliu333@gmail.com)* or *[My Outlook](yingqiliu3@outlook.com)*
+- 📫 Reach me: *[My Gmail](yingqiliu333@gmail.com)* or *[My Outlook](yingqiliu3@outlook.com)*
+- 🙋‍♂️*[My CV](https://yingqiliu3.github.io)*
 <!--
 **YingqiLiu3/YingqiLiu3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
